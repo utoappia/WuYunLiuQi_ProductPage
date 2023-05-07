@@ -12,4 +12,4 @@
 本應用不收集任何使用者資訊。
 
 ## 聯繫我們 / Contact Us
-[utoappia@gmail.com](mailto:utoappia@gmail.com?subject=%E5%AD%90%E5%8D%88%E9%9D%88%E9%BE%9C)
+[utoappia@gmail.com](mailto:utoappia@gmail.com?subject=%E4%BA%94%E9%81%8B%E5%85%AD%E6%B0%A3)
