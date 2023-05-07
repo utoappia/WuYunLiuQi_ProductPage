@@ -1,6 +1,6 @@
 # 五運六氣
 
-## 下載 / Download
+## 下載
 [蘋果 / iOS](https://apps.apple.com/app/%E4%BA%94%E9%81%8B%E5%85%AD%E6%B0%A3/id1274285190)
 
 [安卓 / Android](https://play.google.com/store/apps/details?id=com.wuyunliuqi_mobile)
